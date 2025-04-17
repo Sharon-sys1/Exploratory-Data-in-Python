@@ -1,10 +1,10 @@
 # Exploratory Data Analysis in Python (Jupyter Notebook)
 
-## 📋 Project Overview
+## Project Overview
 
 This project showcases a complete Exploratory Data Analysis (EDA) workflow using Python in a Jupyter Notebook. The notebook includes data inspection, cleaning, and transformation, followed by the identification of patterns, correlations, and key insights.
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 
 - Python
 
@@ -16,7 +16,7 @@ This project showcases a complete Exploratory Data Analysis (EDA) workflow using
 
 - Matplotlib and Seaborn for data visualization
 
-## 🔍 Key EDA Steps
+## Key EDA Steps
 
 - Viewing dataset structure and summary statistics
 
